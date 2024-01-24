@@ -1,0 +1,113 @@
+
+.containe{
+    border-radius: 20px;
+    height: 550px;
+    width: 300px;
+    /* background: linear-gradient(rgb(4, 252, 219) , rgb(17, 0, 255)); */
+    background-image: url(upload1/lol3.jpg);
+    border: 2px solid black;
+    background-size: cover;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(37, 7, 146);
+}
+h1{
+    text-align: center;
+    color: aliceblue;  
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+.A{
+    color: black;
+    font-size: 10px;
+    margin-left: 10px;
+
+}
+.C{
+    color: black;
+    font-size: 10px;
+    margin-left: 1px;
+    
+
+}
+
+.D{
+   
+    width: 110px;
+    height: 30px;
+    background: linear-gradient(#b32d00,#cc3300);
+    margin-top:20px ;
+    box-shadow: 1px 1px 1px gray;
+}
+/* .aa{
+    
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    background: linear-gradient(#cd04f5,#04ebfc);
+    margin-left: 10px;
+    padding: 4% 5%;
+} */
+.bb{
+  
+    width: 250px; 
+    height: 30px;
+    border-radius: 15px;
+    background: linear-gradient(#cd04f5,#04ebfc);
+    margin-left: 10px;
+    padding: 4% 5%;
+}
+/* .cc{
+   
+    width: 250px;   
+    height: 30px;
+    border-radius: 15px;
+    background: linear-gradient(#cd04f5 ,#04ebfc);
+    margin-left: 20px;
+    padding: 4% 5%;
+} */
+.ll{
+    text-align: center;
+}
+.form{
+    width: 70px;
+    height: 10px;
+    margin-left: 65px;
+
+}
+.form1{
+    margin-top: -28px;
+    height: 10px;
+    width: 70px;
+    margin-left: 163px;
+
+}
+.div{
+    margin-top: 20px;
+}
+.div1{
+    margin-top: 30px;
+}
+.containe
+{
+    border: 5px solid black;	
+    width: 400px;
+    height: 600px;
+    background-color: #66ffff; 
+}
+.my-form
+{
+    margin-top: 100px;			
+}
+input
+{
+    border-top: 100%;
+}
+.fom
+{
+    padding: 30px 40px;
+}

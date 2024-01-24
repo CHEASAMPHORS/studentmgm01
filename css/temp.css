@@ -1,0 +1,34 @@
+.khheader {
+    font-size: 14px;
+    font-family: Khmer OS Freehand, Khmer OS Content, Khmer OS;
+    color: white;
+    ;
+}
+
+.kh {
+    font-size: 12px;
+    font-family: Khmer OS Freehand, Khmer OS Content, Khmer OS;
+    ;
+}
+
+.engheader {
+    font-family: Ink Free, Abchdsh fds, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.eng {
+    font-family: Abchdsh fds, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: yellowgreen;
+}
+
+.eng2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.fontsm {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
